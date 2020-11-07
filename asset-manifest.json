@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tictactoe.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tictactoe.git/static/js/main.c1003c09.chunk.js",
+    "main.js.map": "/tictactoe.git/static/js/main.c1003c09.chunk.js.map",
+    "runtime-main.js": "/tictactoe.git/static/js/runtime-main.91bd452f.js",
+    "runtime-main.js.map": "/tictactoe.git/static/js/runtime-main.91bd452f.js.map",
+    "static/js/2.1f5c38d4.chunk.js": "/tictactoe.git/static/js/2.1f5c38d4.chunk.js",
+    "static/js/2.1f5c38d4.chunk.js.map": "/tictactoe.git/static/js/2.1f5c38d4.chunk.js.map",
+    "static/js/3.790278f6.chunk.js": "/tictactoe.git/static/js/3.790278f6.chunk.js",
+    "static/js/3.790278f6.chunk.js.map": "/tictactoe.git/static/js/3.790278f6.chunk.js.map",
+    "index.html": "/tictactoe.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tictactoe.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1f5c38d4.chunk.js.LICENSE.txt": "/tictactoe.git/static/js/2.1f5c38d4.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/tictactoe.git/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91bd452f.js",
+    "static/js/2.1f5c38d4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c1003c09.chunk.js"
+  ]
+}
